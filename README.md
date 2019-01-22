@@ -1,7 +1,9 @@
 # Fight_Cancer_Game
 
 Author: Chun-Jen Curtis Lin
+
 Semester: Fall 2018
+
 Contact information: cclin@ischool.berkeley.edu 
 
 ## Overview of Program:

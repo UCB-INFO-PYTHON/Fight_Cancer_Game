@@ -14,7 +14,7 @@ The game includes seven classes: *player_info*, *effectors*, *cancer_rank*, *sym
 with tumor size = 0 (cancer-free condition). The classes of *player_info*, *effectors*, collect the basic information of personal habits and environmental conditions. The classes of *cancer_rank*, *symptoms* next calculate the probabilities based on the basic information and further assign the cancer subtypes and tumor size. The classes of *treatment_option*, *recurrence*, and *treatment_period* are the key parameters to change the tumor sizes. The entire game is based on the probabilities just like the real-world situation. **Therefore, there is no guarantee that you will win or lose the fight even
 though you use the same inputs. More important, there is no quit for this game.**
 
-## The instruction of the game of fighting cancer
+## Instruction
 
 1. Download fightcancer.py from Github
 2. Use terminal to run **python fightcancer.py**
